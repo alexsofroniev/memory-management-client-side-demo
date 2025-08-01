@@ -1,3 +1,7 @@
+---
+author: Alex Sofroniev
+---
+
 # Memory Management Demo
 
 A complete implementation of real-time memory monitoring with AES-256-GCM encryption built with Vite + React. 
@@ -17,7 +21,3 @@ A complete implementation of real-time memory monitoring with AES-256-GCM encryp
 ```bash
 npm install
 npm run dev
-
----
-author: Alex Sofroniev
----
